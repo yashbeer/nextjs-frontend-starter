@@ -2,6 +2,7 @@
 This is a modern web application built with Next.js that can serve as a template or starting point for your frontend application.
 
 ## Project Structure
+```
 ├── app/
 │ ├── workspace/
 │ │ └── home/ # Main workspace dashboard
@@ -15,6 +16,7 @@ This is a modern web application built with Next.js that can serve as a template
 |── styles/ # Global styles
 |── types/ # TypeScript types
 |── utils/ # Miscellaneous utility functions
+```
 
 ## Getting Started
 
@@ -36,7 +38,7 @@ npm run dev
 
 The backend for this project is based on [`node-express-starter`](https://github.com/yashbeer/node-express-starter). It serves as a foundational backend that can be paired with this frontend application for your projects.
 
-## Learn More
+## Learn MoreGen
 
 To learn more about Next.js, take a look at the following resources:
 
